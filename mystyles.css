@@ -3,7 +3,7 @@ body { background-color:#FFC425;
       color: #000000;
       font-family: Arial, helvetica;;
 }
-#wrapper { width: 70%;
+#wrapper { width: 85%;
            min-width: 700px;
            max-width: 1024px;
            margin-right: auto;
@@ -24,6 +24,11 @@ h1 { line-height: 200%;
     margin-bottom: 0;
 background-color:##231F20;
 color:#ffffff;
+}
+figure 
+{ 
+    display: inline-block;
+    margin-right: 68px;
 }
 nav { font-weight: bold;
      padding: 5px;
